@@ -1,0 +1,6 @@
+Hot Rifaldo Malau (230712537)
+Dionisio Raditya Prasmada (230712370)
+Lodevick Bintang Saputra (230712386)
+
+Repo Github: https://github.com/rifaldomalau/UAS-PBA_Kelas_KEL3
+Streamlit: https://kelp3uasnlp.streamlit.app/
