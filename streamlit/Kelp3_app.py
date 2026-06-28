@@ -58,7 +58,7 @@ list_label_ml = [
 
 # DESAIN INTERFACE (UI) APLIKASI WEB
 st.title("🔑 Dashboard Analisis Sentimen Berbasis Aspek (ABSA) & NER")
-st.subheader("🤖 Hasil Karya Kelompok 3 - Sistem Deteksi Review Otomatis")
+st.subheader("Kelompok 3 - Sistem Deteksi Review Otomatis")
 st.markdown("---")
 
 st.markdown("### 📝 Masukkan Teks Review Pelanggan di Sini:")
@@ -68,7 +68,7 @@ user_input = st.text_area(
     height=100
 )
 
-if st.button("🚀 Jalankan Analisis AI", type="primary"):
+if st.button("🚀 Analisis", type="primary"):
     if user_input.strip() == "":
         st.warning("⚠️ Mohon isi teks review terlebih dahulu sebelum menekan tombol!")
     else:
